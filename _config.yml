@@ -1,0 +1,8 @@
+title: Xiaoyuwang.GitHub.io
+description: Homepage of Xiaoyu Wang
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
